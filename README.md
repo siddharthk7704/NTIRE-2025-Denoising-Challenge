@@ -1,0 +1,1 @@
+This code presents our approach and results in the NTIRE 2025 Denoising Challenge. Our goal was to develop a deep learning-based image denoising model that effectively removes Gaussian noise (σ = 50) while preserving image details. We employed a UNet-based architecture trained on a diverse dataset and optimized using a mixed loss function (Charbonnier + SSIM loss).
